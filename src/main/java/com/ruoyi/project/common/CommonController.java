@@ -19,7 +19,7 @@ import com.ruoyi.framework.config.ServerConfig;
 import com.ruoyi.framework.web.domain.AjaxResult;
 
 /**
- * 通用请求处理
+ * 通用请求处理1
  * 
  * @author ruoyi
  */
@@ -27,6 +27,7 @@ import com.ruoyi.framework.web.domain.AjaxResult;
 public class CommonController
 {
     private static final Logger log = LoggerFactory.getLogger(CommonController.class);
+
 
     @Autowired
     private ServerConfig serverConfig;
