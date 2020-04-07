@@ -19,7 +19,7 @@ import com.ruoyi.framework.config.ServerConfig;
 import com.ruoyi.framework.web.domain.AjaxResult;
 
 /**
- * 通用请求处理1
+ * 通用请求处理
  * 
  * @author ruoyi
  */
